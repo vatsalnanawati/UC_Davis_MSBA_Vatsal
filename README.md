@@ -1,7 +1,11 @@
 <h1 align="left">Hi Connections👋! </h1>
   
-<h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br>Being a analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
+<h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being a analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
 
+<h2> Analytics Projects: 
+•	COVID-19 X-ray Detection with PyTorch (Jan 2020): Used a ResNet-18 model to classify a dataset of around 3000 Chest X-Ray scans into 3 classes: Normal, Viral Pneumonia & COVID-19 for COVID-19 detection.
+•	Cough Detection with TinyML on Arduino (March 2021): Utilized machine learning (K-Nearest Neighbors (KNN)) on an Arduino Nano BLE Sense for real-time audio analysis to identify the occurrence of coughing.
+</h2>
 ###
 
 <div align="center">
