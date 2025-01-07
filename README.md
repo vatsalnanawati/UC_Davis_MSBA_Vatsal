@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br>Being a analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h2>
+<h1 align="left">Hi Connections👋! </h1>
+  
+<h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br>Being a analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
 
 ###
 
