@@ -1,6 +1,3 @@
-# 🌪️ Cascade Crisis AI: Predicting Disasters, Filtering Fakes, Guiding Response
-
-
 # 🌪️ Cascade Crisis AI - Hackathon Project
 
 ## 🚀 Project Overview
