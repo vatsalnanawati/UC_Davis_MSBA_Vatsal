@@ -1,4 +1,4 @@
-# 📈 DDR Pro2: Stock Market Trends During AI-Driven Market Disruptions  
+# 📈 Stock Market Trends During AI-Driven Market Disruptions  
 
 **Tools:** Python, yFinance, SEC EDGAR API, Pandas, NLP (Sentiment Analysis), Wikipedia Data  
 
